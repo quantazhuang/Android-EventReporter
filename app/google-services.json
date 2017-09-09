@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "841089237070",
+    "firebase_url": "https://eventreporter-d34e4.firebaseio.com",
+    "project_id": "eventreporter-d34e4",
+    "storage_bucket": "eventreporter-d34e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841089237070:android:f9c4cef1a29f0749",
+        "android_client_info": {
+          "package_name": "com.example.quantazhuang.eventreporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841089237070-lj97k5aeqn584bh07n05uul5cinqlfnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quantazhuang.eventreporter",
+            "certificate_hash": "58dc44d298f3cd52d5d58c3060f22058c62859bc"
+          }
+        },
+        {
+          "client_id": "841089237070-mm1kduqdv4keti1i7sqoolg9lmdvura6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNeY-nVLweddjasCfF8Idhyqe8RIBIUYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841089237070-mm1kduqdv4keti1i7sqoolg9lmdvura6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
